@@ -1,0 +1,12 @@
+
+ƒ
+java:S1854"ARemove this useless assignment to local variable "converteMoeda".(—§•r8‹Ì‘Ôõ1J$dde4750c-d177-4775-b143-780a39e1ad0e
+y
+java:S1481"1Remove this unused "valorUnitaro" local variable.(†äÐ¿üÿÿÿÿ8¹Ì‘Ôõ1J$3c3a9657-92e9-41d5-b440-95869c28a51c
+u
+java:S1481"2Remove this unused "valorDesejado" local variable.(­õÔê8»Ì‘Ôõ1J$6fe8c1c7-323e-4bfa-80a6-487621e059c9
+t
+java:S1481"2Remove this unused "converteMoeda" local variable.(—§•r8¾Ì‘Ôõ1J$b1d2bbd4-eae3-485f-ba23-4c1bd611d079
+r	java:S106$"+Replace this use of System.out by a logger.(©Ñÿ¶ùÿÿÿÿ8¸æè×ô1J$12634dd8-7f17-4977-a7e8-6b1efbab67b1
+r	java:S106%"+Replace this use of System.out by a logger.(Ä¨”Ûþÿÿÿÿ8¸æè×ô1J$d7b386be-3d51-458f-a22d-982933a18fe3
+~	java:S125)"<This block of commented-out lines of code should be removed.(ÓêÚ½8¹æè×ô1J$52b9a13e-3aa6-45ca-86eb-fab347e6c3a0
