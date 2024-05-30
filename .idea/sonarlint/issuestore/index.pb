@@ -13,3 +13,10 @@ S
 #.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
 ]
 -.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
+^
+.src/main/java/resources/application.properties,4\e\4e93b4bb56d41d8ab477d82eb89b215158bec011
+a
+1src/main/java/com/alura/literalura/main/Main.java,f\9\f90131028173b2ebb953ce4446a17f3e714cfaf2
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302

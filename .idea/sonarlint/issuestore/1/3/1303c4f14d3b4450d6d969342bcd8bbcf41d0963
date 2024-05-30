@@ -1,7 +1,20 @@
 
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ¡æ˜8ëûşËü1J$cc39162d-c766-4b3f-8d28-0997367fc83e
+~
+java:S1854";Remove this useless assignment to local variable "url_str".(µ¡æ˜8å§„Ìü1J$56969932-ed58-4e79-b63e-ccbf0e2879c2
+€
+java:S1854">Remove this useless assignment to local variable "consumoApi".(ÕÈØ!8å§„Ìü1J$2accafe3-03c5-45bb-921f-c96077200932
+´
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(àÒşüøÿÿÿÿ8å§„Ìü1J$e9b26fd2-4e60-4929-8ddd-353c69016f46
+¿
+java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(àÒşüøÿÿÿÿ8æ§„Ìü1J$c1e4b2b7-86a6-47d5-ac5f-3879de5d20a9
 y
-java:S1481"1Remove this unused "valorUnitaro" local variable.(†äĞ¿üÿÿÿÿ8¹Ì‘Ôõ1J$3c3a9657-92e9-41d5-b440-95869c28a51c
+java:S1481"1Remove this unused "valorUnitaro" local variable.(†äĞ¿üÿÿÿÿ8üşËü1J$9095c1f9-b34c-47bc-9be4-9311ac3e5e4d
 u
-java:S1481"2Remove this unused "valorDesejado" local variable.(­õÔê8»Ì‘Ôõ1J$6fe8c1c7-323e-4bfa-80a6-487621e059c9
-r	java:S106"+Replace this use of System.out by a logger.(©Ñÿ¶ùÿÿÿÿ8¸æè×ô1J$12634dd8-7f17-4977-a7e8-6b1efbab67b1
-L	java:S106"+Replace this use of System.out by a logger.(­¬´ÿÿÿÿÿ8úİøÉü1
+java:S1481"2Remove this unused "valorDesejado" local variable.(­õÔê8üşËü1J$335705af-9a85-4f4a-9aa4-760fc833628d
+q
+java:S1481"/Remove this unused "consumoApi" local variable.(ÕÈØ!8é§„Ìü1J$2fb6ba87-1f90-4a2d-98bb-a183afc112b3
+o
+java:S1481",Remove this unused "url_str" local variable.(µ¡æ˜8é§„Ìü1J$00b3fed0-440e-486f-a8bf-1151cd6388e4
+r	java:S106"+Replace this use of System.out by a logger.(©Ñÿ¶ùÿÿÿÿ8‘üşËü1J$12293d21-f5a7-4486-bf25-e9e6fc933f01
+r	java:S106"+Replace this use of System.out by a logger.(­¬´ÿÿÿÿÿ8‘üşËü1J$24c391a2-367d-403d-93f9-67789f06ba16
