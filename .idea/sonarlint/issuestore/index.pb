@@ -23,3 +23,11 @@ Asrc/main/java/com/alura/literalura/services/InterfaceGarfica.java,d\7\d776c9f3
 -.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
 k
 ;src/main/java/com/alura/literalura/services/ConsumoApi.java,4\f\4f60847c708c5782a4dd0fbb6f00d7cd1299b6ab
+o
+?src/main/java/com/alura/literalura/services/IConverteDados.java,f\6\f63fd87bdd6dd90c3f903106399610182dc3c39d
+n
+>src/main/java/com/alura/literalura/services/ConverteDados.java,0\8\088cc764f5f8e6766658a4ba29d4976cb32111f7
+d
+4src/main/java/com/alura/literalura/entity/Livro.java,0\9\09d19b0c93c7ffb52817e79d83725cc82f9dc072
+r
+Bsrc/main/java/com/alura/literalura/repository/LivroRepository.java,4\e\4e1d2808b8e03f20877915306a39b127d79dcdeb

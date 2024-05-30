@@ -1,5 +1,6 @@
 package com.alura.literalura.main;
 
+import com.alura.literalura.repository.LivroRepository;
 import org.example.services.ConsumoApi;
 import org.example.services.InterfaceGarfica;
 
@@ -11,14 +12,15 @@ public class Principal {
 
        private Scanner leitura = new Scanner(System.in);
        private String busca = "";
-       private String valorUnitaro = "";
-       private String valorDesejado = "";
        private InterfaceGarfica interfaceGarfica = new InterfaceGarfica();
        private String menu = interfaceGarfica.menu();
        private ConsumoApi consumoApi = new ConsumoApi();
        private String url_str = "http://gutendex.com/books/";
+       private LivroRepository repository;
 
-
+       public Principal(LivroRepository repository) {
+           this.repository = repository;
+       }
 
 
        public void exibeMenu() throws IOException, InterruptedException {
