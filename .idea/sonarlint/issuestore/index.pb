@@ -9,7 +9,7 @@ b
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
 h
 8src/main/java/org/example/services/InterfaceGarfica.java,e\a\ea217166993b16a8b23bb49faf57cadbbdd04600
-e
-5src/main/java/org/example/model/ModeloConvertido.java,1\0\100b961ce64b52564cab578c3d874eac8442ff02
-e
-5src/main/java/org/example/services/ConverteMoeda.java,1\0\105dcb0569eacf7ee0bfa559a1fdda97a560ef22
+S
+#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
+]
+-.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
