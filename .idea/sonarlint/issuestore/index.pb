@@ -1,6 +1,4 @@
 
-a
-1src/main/java/com/alura/literalura/main/Main.java,f\9\f90131028173b2ebb953ce4446a17f3e714cfaf2
 7
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
 m
@@ -31,3 +29,5 @@ d
 4src/main/java/com/alura/literalura/entity/Livro.java,0\9\09d19b0c93c7ffb52817e79d83725cc82f9dc072
 r
 Bsrc/main/java/com/alura/literalura/repository/LivroRepository.java,4\e\4e1d2808b8e03f20877915306a39b127d79dcdeb
+d
+4src/main/java/com/alura/literalura/dto/LivroDTO.java,b\2\b2a9ab939373aab7f2c26280150e64558756ce51
