@@ -1,26 +1,34 @@
 package com.alura.literalura.main;
 
+import com.alura.literalura.dto.LivroDTO;
+import com.alura.literalura.dto.PageLivroDTO;
+import com.alura.literalura.entity.Livro;
 import com.alura.literalura.repository.LivroRepository;
+import com.alura.literalura.services.ConverteDados;
+import com.alura.literalura.services.RequestType;
+import lombok.RequiredArgsConstructor;
 import org.example.services.ConsumoApi;
 import org.example.services.InterfaceGarfica;
 
 import java.io.IOException;
+import java.util.ArrayList;
 import java.util.Scanner;
+import java.util.stream.Collectors;
 
 
+@RequiredArgsConstructor
 public class Principal {
 
        private Scanner leitura = new Scanner(System.in);
        private String busca = "";
        private InterfaceGarfica interfaceGarfica = new InterfaceGarfica();
        private String menu = interfaceGarfica.menu();
-       private ConsumoApi consumoApi = new ConsumoApi();
-       private String url_str = "http://gutendex.com/books/";
-       private LivroRepository repository;
+       private RequestType request = new RequestType();
+       private final LivroRepository livroRepository;
 
-       public Principal(LivroRepository repository) {
-           this.repository = repository;
-       }
+
+
+
 
 
        public void exibeMenu() throws IOException, InterruptedException {
@@ -32,10 +40,13 @@ public class Principal {
 
 
 
+
                switch(busca) {
                    case "1":
-                       var d = consumoApi.BuscaDados(url_str);
-                       System.out.println(d);
+                       var livro = request.buscaLivroPeloTitulo();
+                       System.out.println(livro);
+
+                       livroRepository.save(livro);
                        break;
                    case "2":
 

@@ -31,3 +31,9 @@ r
 Bsrc/main/java/com/alura/literalura/repository/LivroRepository.java,4\e\4e1d2808b8e03f20877915306a39b127d79dcdeb
 d
 4src/main/java/com/alura/literalura/dto/LivroDTO.java,b\2\b2a9ab939373aab7f2c26280150e64558756ce51
+l
+<src/main/java/com/alura/literalura/services/RequestType.java,1\2\128f9e40216fa13aa7fd3bcc618570c5ed670e96
+h
+8src/main/java/com/alura/literalura/dto/PageLivroDTO.java,2\6\268d17d9d1c7cc2aebdd421123160b781d68e303
+g
+7src/main/java/com/alura/literalura/dto/Information.java,c\6\c6fbc17b94af1d00b01994984e3c24e1e5f93b19
